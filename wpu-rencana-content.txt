@@ -3,7 +3,10 @@ RENCANA KONTEN WPU
 -Javascript
   *E56
   *Fremwork Javascrip
+   -Vue
 -Struktur Data Dasar
 -PHP Framework
+ *Laravel
 -interview
 -Vlogs
+-Python
