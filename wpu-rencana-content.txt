@@ -5,6 +5,7 @@ RENCANA KONTEN WPU
   *Fremwork Javascrip
    -Vue
    -react
+   -Angular
 -Struktur Data Dasar
 -PHP Framework
  *Laravel
