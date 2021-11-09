@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
   *E56
   *Fremwork Javascrip
    -Vue
+   -react
 -Struktur Data Dasar
 -PHP Framework
  *Laravel
